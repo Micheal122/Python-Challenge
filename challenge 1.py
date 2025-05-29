@@ -1,0 +1,6 @@
+FN=input("What is your first name")
+LN=input("What is your last name")
+FullName=(FN + LN)
+print(FN)
+print(LN)
+print(FullName)

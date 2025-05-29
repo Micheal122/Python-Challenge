@@ -1,0 +1,5 @@
+Quote = input("I'm am an excellenct programmer")
+print(Quote.lower())
+x=("I'm am ")
+y=("an excellenct programmer")
+print(x +y)
